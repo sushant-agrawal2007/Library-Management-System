@@ -1,0 +1,126 @@
+c:\users\namita\documents\visual studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainLogin.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignUp.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPassword.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.NewBook.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Statistics.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.NewStudent.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBook.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBook.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutUs.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ContactUs.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarian.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewLibrarian.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBook.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewStudent.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ApproveLibrarian.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RejectedLibrarian.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DataAnalysis.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BAL.dll
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BAL.pdb
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AprioriForm.resources
+C:\Users\NAMITA\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.TableUserControl.resources
+D:\PROJECTS\library-management-system-c#\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\PROJECTS\library-management-system-c#\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\PROJECTS\library-management-system-c#\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutUs.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ApproveLibrarian.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AprioriForm.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ContactUs.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DataAnalysis.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarian.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPassword.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBook.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainLogin.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.NewBook.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.NewStudent.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RejectedLibrarian.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBook.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignUp.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Statistics.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.TableUserControl.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBook.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewLibrarian.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewStudent.resources
+E:\.NET Notes and Interviews Questions\c-sharp-library-management-system-master\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutUs.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ApproveLibrarian.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AprioriForm.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ContactUs.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DataAnalysis.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarian.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPassword.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBook.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainLogin.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.NewBook.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.NewStudent.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RejectedLibrarian.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBook.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignUp.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Statistics.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.TableUserControl.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBook.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewLibrarian.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewStudent.resources
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\.NET Notes and Interviews Questions\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+E:\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AboutUs.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminHome.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminLogin.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ApproveLibrarian.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AprioriForm.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ContactUs.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DataAnalysis.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteLibrarian.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ForgotPassword.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBook.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianHome.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianLogin.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainLogin.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.NewBook.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.NewStudent.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RejectedLibrarian.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBook.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignUp.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Statistics.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.TableUserControl.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBook.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewLibrarian.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewStudent.resources
+E:\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
